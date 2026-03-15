@@ -71,3 +71,4 @@ print("Manzanas de John:", john)
 print("Manzanas de Mary:", mary)
 print("Manzanas de Adam:", adam)
 print("Total de manzanas:", total_apples)
+
